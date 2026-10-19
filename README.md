@@ -11,3 +11,7 @@ How to run: pip install streamlit qiskit qiskit-aer qiskit-algorithms qiskit-opt
 Screenshots: the app images.
 
 ![Results](q_restore_results.png)
+
+![App screenshot 1](app_screenshot1.png)
+![App screenshot 2](app_screenshot2.png)
+![App screenshot 3](app_screenshot3.png)
